@@ -2,6 +2,10 @@
 // @name         Auto Slot Machine
 // @version      1.0.1
 // @description  在页面右上角添加一个悬浮按钮，每 6 秒自动点击一次 button#spinButton 来进行抽奖
+// @homepage     https://github.com/Lurito/kyx-auto-slot-machine
+// @updateURL    https://cdn.jsdelivr.net/gh/Lurito/kyx-auto-slot-machine/auto-slot-machine.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/Lurito/kyx-auto-slot-machine/auto-slot-machine.js
+// @supportURL   https://github.com/Lurito/kyx-auto-slot-machine/issues
 // @match        https://quota.kyx03.de/
 // @match        https://quota.wpgzs.top/
 // @grant        none
